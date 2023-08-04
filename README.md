@@ -14,3 +14,4 @@ n_samples = [10000,10000,200]
 
 changing the centroids and the sample ratio here changes the test.
 
+install environment.yaml to run the repository.
