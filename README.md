@@ -15,3 +15,24 @@ n_samples = [10000,10000,200]
 changing the centroids and the sample ratio here changes the test.
 
 install environment.yaml to run the repository.
+
+citations
+
+
+@article{lahoti2020fairness,
+  title={Fairness without demographics through adversarially reweighted learning},
+  author={Lahoti, Preethi and Beutel, Alex and Chen, Jilin and Lee, Kang and Prost, Flavien and Thain, Nithum and Wang, Xuezhi and Chi, Ed},
+  journal={Advances in neural information processing systems},
+  volume={33},
+  pages={728--740},
+  year={2020}
+}
+
+
+@article{romano2019conformalized,
+  title={Conformalized quantile regression},
+  author={Romano, Yaniv and Patterson, Evan and Candes, Emmanuel},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}
